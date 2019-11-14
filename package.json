@@ -1,0 +1,43 @@
+{
+  "name": "run-forrest-run",
+  "version": "0.0.1",
+  "description": "I'm sorry, I have to make this.",
+  "preferGlobal": true,
+  "bin": {
+    "run-forrest-run": "./src/index.js"
+  },
+  "scripts": {
+    "forrest": "node ./src/index.js"
+  },
+  "files": [
+    "src/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hexrcs/run-forrest-run.git"
+  },
+  "keywords": [
+    "fun",
+    "funny",
+    "run",
+    "forrest",
+    "cli",
+    "ascii",
+    "animation",
+    "terminal"
+  ],
+  "author": "Xiaoru Li",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hexrcs/run-forrest-run/issues"
+  },
+  "homepage": "https://github.com/hexrcs/run-forrest-run#readme",
+  "dependencies": {
+    "log-update": "^3.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "prettier": "^1.19.1",
+    "pretty-quick": "^2.0.1"
+  }
+}
