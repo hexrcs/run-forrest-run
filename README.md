@@ -38,7 +38,10 @@ npm run forrest run
 
 # or...
 npm link
-npx run-forrest-run
+run-forrest-run
+
+# or with no strings attached...
+npx hexrcs/run-forrest-run
 ```
 
 Dammit [@robodo](https://www.npmjs.com/~robodo)! [npm package name](https://www.npmjs.com/package/run-forrest-run) got taken 2 years ago, only discovered when I'm trying to publish...
