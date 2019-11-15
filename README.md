@@ -41,9 +41,9 @@ npm link
 npx run-forrest-run
 ```
 
-Dammit [@robodo](https://www.npmjs.com/~robodo)! npm package name got taken 2 years ago, only discovered when I'm trying to publish...
+Dammit [@robodo](https://www.npmjs.com/~robodo)! [npm package name](https://www.npmjs.com/package/run-forrest-run) got taken 2 years ago, only discovered when I'm trying to publish...
 
-At least his package seems to be doing something useful. :D
+At least their package seems to be doing something useful. :D
 
 ## Why
 
