@@ -38,6 +38,9 @@ npm run forrest run
 
 # or...
 npm link
+run-forrest-run
+
+# or with no strings attached...
 npx hexrcs/run-forrest-run
 ```
 
